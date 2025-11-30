@@ -15,6 +15,12 @@ The insights derived from this analysis empower the EdTech platform to:
 
 This project features a **high-performance Streamlit Dashboard** that provides an interactive and visually engaging walkthrough of the entire analysis, from raw data exploration to actionable business recommendations.
 
+---
+## 🎬 Demo
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://edtech-learner-clustering-analysis-q7cozhkz4zafdrwwul9mpv.streamlit.app/
+  
+---
 ## � Application Modules
 The dashboard is organized into 9 comprehensive sections:
 
@@ -146,9 +152,9 @@ The analysis identified 3 distinct learner clusters:
 - 📱 Phone: +91-947XXXXX46
 
 ### Project Links
-- 🌐 Live Demo: [Streamlit App](https://share.streamlit.io/) *(Link to be updated after deployment)*
-- 📖 Documentation: [GitHub Wiki](https://github.com/Ratnesh-181998/EdTech-Learner-Clustering/wiki)
-- 🐛 Issue Tracker: [GitHub Issues](https://github.com/Ratnesh-181998/EdTech-Learner-Clustering/issues)
+- 🌐 Live Demo: [Streamlit](https://edtech-learner-clustering-analysis-q7cozhkz4zafdrwwul9mpv.streamlit.app/)
+- 📖 Documentation: [GitHub Wiki](https://github.com/Ratnesh-181998/EdTech-Learner-Clustering-Analysis/wiki)
+- 🐛 Issue Tracker: [GitHub Issues](https://github.com/Ratnesh-181998/EdTech-Learner-Clustering-Analysis/issues)
 
 ## 📜 License
 
